@@ -7,8 +7,7 @@
   - [How to Contribute](#how-to-contribute)
 - [Folder Structure](#folder-structure)
 - [Projects](#projects)
-- [Community Guidelines](#community-guidelines)
-- [Events and Meetups](#events-and-meetups)
+
 - [Resources](#resources)
 - [Contact](#contact)
 - [License](#license)
@@ -81,14 +80,6 @@ To contribute to a specific project (once available):
 2. Read the project's `README.md` for specific instructions.
 3. Follow the contribution guidelines outlined in the project.
 
-## Community Guidelines
-- Be respectful and inclusive to all members.
-- Ensure your contributions align with the repository's goals.
-- Follow the [Code of Conduct](CODE_OF_CONDUCT.md) (to be added) to maintain a positive environment.
-- Reach out to maintainers for clarification or assistance.
-
-## Events and Meetups
-The `events/` directory will contain details about upcoming coding meetups, hackathons, and workshops in Hyderabad. Check this folder for schedules, registration details, and how to get involved once it is available.
 
 ## Resources
 The `resources/` directory will include:
